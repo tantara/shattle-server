@@ -1,0 +1,19 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  description: MyString
+  busType: MyString
+  dep: MyString
+  dest: MyString
+  interval: MyString
+  times: MyString
+
+two:
+  name: MyString
+  description: MyString
+  busType: MyString
+  dep: MyString
+  dest: MyString
+  interval: MyString
+  times: MyString
